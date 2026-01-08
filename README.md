@@ -4,6 +4,9 @@
 
 ### A Foundational Position on Generative UX
 
+
+
+
 ---
 
 ## Preamble
@@ -14,7 +17,13 @@ Despite this shift, most application builders — including those labeled “AI�
 
 This document argues that a growing class of applications cannot be expressed cleanly within that model.
 
+
 Not because current tools are poorly executed — but because they are built on assumptions that no longer hold.
+
+## Execution Model
+
+This repository also defines a minimal execution model for Generative UX systems.  
+See: [The Intent Runtime Loop](docs/intent-runtime-loop.md)
 
 ---
 
