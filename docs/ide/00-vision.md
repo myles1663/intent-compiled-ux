@@ -1,0 +1,73 @@
+# Vision: The Generative UX App IDE
+
+## What This Is
+
+This project is an IDE for building applications where **interfaces are not predefined**, but **compiled at runtime from user intent**.
+
+Instead of designing screens, routes, and workflows up front, this IDE generates:
+- interface structure
+- data requirements
+- interaction affordances
+
+only after intent is expressed and context is known.
+
+The UI is not authored.
+It is assembled.
+
+## Why Existing Tools Fail
+
+Most modern tools assume:
+- intent is known at the start
+- workflows are stable
+- AI belongs at the edge (copy, suggestions, chat)
+
+Real work begins in uncertainty.
+
+Users arrive without knowing:
+- what they need
+- what matters
+- what the right structure is
+
+Static interfaces force premature decisions.
+
+This IDE waits.
+
+## What Makes This an IDE (Not a Framework)
+
+This system provides:
+- a runtime composition engine
+- explicit intent and confidence models
+- deterministic rendering from generated plans
+- inspectable artifacts at every step
+
+You do not prompt UI.
+You compile it.
+
+## Core Principle
+
+> The interface should do nothing until intent exists —  
+> and only as much as intent requires.
+
+## Who This Is For
+
+- Systems engineers
+- Compiler-minded developers
+- Runtime / orchestration specialists
+- UX designers working with adaptive systems
+- Researchers focused on explainability and trust
+
+## What We Are Building First
+
+A minimal IDE capable of:
+- capturing intent
+- generating a composition plan
+- rendering a working interface
+- explaining why that interface exists
+
+## How to Get Involved
+
+Start with:
+- `docs/ide/01-loop.md`
+- `docs/ide/02-architecture.md`
+
+Then propose primitives, failure cases, or instrumentation.
