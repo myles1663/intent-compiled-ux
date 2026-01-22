@@ -1,4 +1,6 @@
 # IDE Runtime Loop
+> **Note:** This loop describes the behavior of the **generated application at runtime**, not the IDE.
+
 
 This document defines the **canonical runtime loop** of the Generative UX App IDE.
 
