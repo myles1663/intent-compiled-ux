@@ -1,4 +1,5 @@
 # IDE Architecture Overview
+> **Note:** All components described here live inside the generated application runtime, not the IDE.
 
 This IDE is composed of **explicit subsystems** with hard boundaries.
 
