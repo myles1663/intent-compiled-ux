@@ -1,4 +1,5 @@
 # Debug & Triage Guide
+> **Note:** This guide covers debugging the generated application runtime, not the IDE.
 
 This document exists to make failure visible.
 
